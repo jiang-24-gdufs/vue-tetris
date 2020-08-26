@@ -1,4 +1,5 @@
 # vue-tetris
+imitate react-tetris and create a version for vue
 
 ## Project setup
 ```
